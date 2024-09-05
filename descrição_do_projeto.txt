@@ -1,0 +1,10 @@
+Nome: Consultor de Investimentos com Intelingência Artificial
+
+Descrição: Criar um consultor de Investimentos com IA que forneça estratégias
+de investimento personalizadas e gestão de portfólio.
+
+Técnico: Flask/Django para backend, integrando com bibliotecas de IA para
+análise financeira.
+
+Monetização: Planos de assinatura para aconselhamento de investimentos,
+parcerias com instituições financeiras. 
